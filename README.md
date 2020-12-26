@@ -1,7 +1,7 @@
 # Conceitos Fundamentais sobre CSS
-<div style="display: flex; justify-content: space-around;">
-    <img style="width: 300px" src="natal.png" alt="book"/>
-</div>
+<p align="center">
+    <img src="natal.png" alt="book" width="300px"/>
+</p>>
 
 ## Conceitos fundamentais
 ### Cascata
