@@ -1,6 +1,6 @@
 # Conceitos Fundamentais sobre CSS
 <div style="display: flex; justify-content: space-around;">
-    <img style="width: 15rem" src="natal.png" alt="book"/>
+    <img style="width: 300px" src="natal.png" alt="book"/>
 </div>
 
 ## Conceitos fundamentais
