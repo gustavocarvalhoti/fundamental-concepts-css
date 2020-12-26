@@ -1,7 +1,5 @@
 # Conceitos Fundamentais sobre CSS
-<p align="center">
-    <img src="natal.png" alt="book" width="300px"/>
-</p>>
+<img src="natal.png" alt="book" width="300px"/>
 
 ## Conceitos fundamentais
 ### Cascata
